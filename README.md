@@ -93,7 +93,7 @@ Trained the following classification models:
 
 ### 🔹 ROC-AUC Curves  
 ROC curves showing model performance across classifiers:  
-![ROC Curve](results/roc_curve.png)  
+![ROC Curve](roc_curve.png)  
 
 ---
 

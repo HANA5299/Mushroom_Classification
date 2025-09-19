@@ -111,10 +111,6 @@ Confusion matrices for model comparison:
 
 ## 🚀 Key Results  
 - Achieved *99.99% accuracy* using Random Forest.  
-- Identified *stem width* & *cap diameter* as most predictive features.  
+- Identified *stem width* & *cap diameter* as most predictive features.
 - Demonstrated effective *class balancing with SMOTE*.  
-- Built a full ML pipeline: *EDA → Preprocessing → Feature Selection → Model Training → Evaluation → Deployment*.  
-
----
-
-## 📂 Repository Structure
+- Built a full ML pipeline: *EDA → Preprocessing → Feature Selection → Model Training → Evaluation → Deployment*.

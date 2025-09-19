@@ -105,7 +105,7 @@ Top features contributing to classification (Decision Tree / Random Forest):
 
 ### 🔹 Confusion Matrices  
 Confusion matrices for model comparison:  
-![Confusion Matrix](results/confusion_matrix.png)  
+![Confusion Matrix](confusion_matrix.png)  
 
 ---
 

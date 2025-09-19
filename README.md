@@ -99,7 +99,7 @@ ROC curves showing model performance across classifiers:
 
 ### 🔹 Feature Importance  
 Top features contributing to classification (Decision Tree / Random Forest):  
-![Feature Importance](results/feature_importance.png)  
+![Feature Importance](feature_importance.png)  
 
 ---
 
